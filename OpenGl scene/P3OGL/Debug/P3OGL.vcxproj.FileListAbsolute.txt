@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\GitHub\Practicas_Graficos3D\Practica3\P3OGL_2\P3OGL\Debug\P3OGL.exe
+C:\Users\Daniel\Documents\GitHub\OpenGL\P3OGL_2\P3OGL\Debug\P3OGL.exe
