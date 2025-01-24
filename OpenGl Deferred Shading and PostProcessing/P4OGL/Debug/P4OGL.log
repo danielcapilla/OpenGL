@@ -1,0 +1,94 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,8): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,26): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,44): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,62): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,62): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,80): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(48,80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,8): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,26): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,44): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,62): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,62): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,80): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(49,80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,8): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,26): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,44): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,62): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,62): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,80): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(50,80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,8): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,26): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,44): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,62): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,62): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,80): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(51,80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,8): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,8): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,26): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,44): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,62): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,62): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,80): warning C4838: la conversión de 'double' en 'float' requiere una conversión de restricción
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(52,80): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(658,50): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(658,43): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(677,49): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(677,42): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(682,62): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(682,55): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(691,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(691,45): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(696,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(696,45): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(701,50): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(701,43): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(706,50): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(706,43): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(747,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(747,12): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(826,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(826,45): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(826,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(826,101): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(826,129): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(827,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(827,45): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(827,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(827,101): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(827,129): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(828,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(828,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(828,76): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(828,105): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(828,134): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(829,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(829,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(829,76): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(829,105): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(829,134): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(830,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(830,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(830,76): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(830,105): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\scr\main.cpp(830,134): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P4OGL.vcxproj -> C:\Users\Daniel\Documents\P4OGL\P4OGL\P4OGL\Debug\P4OGL.exe
